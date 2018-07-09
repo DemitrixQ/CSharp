@@ -1,0 +1,55 @@
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\bin\Debug\DeleteKString.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.DeleteKString.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.9 Строка К\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.DeleteKString.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.DeleteKString.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+I:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+I:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+I:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.pdb
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.DeleteKString.resources
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+G:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\bin\Debug\DeleteKString.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.DeleteKString.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.1.9 Строка К = текстовый файл\DeleteKString\DeleteKString\obj\Debug\DeleteKString.pdb

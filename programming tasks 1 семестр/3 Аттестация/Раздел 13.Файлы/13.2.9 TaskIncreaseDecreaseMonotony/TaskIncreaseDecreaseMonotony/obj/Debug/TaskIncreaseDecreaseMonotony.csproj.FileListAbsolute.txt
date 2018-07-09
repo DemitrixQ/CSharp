@@ -1,0 +1,46 @@
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.TaskBinary.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.TaskBinary.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe.config
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.TaskBinary.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe.config
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.pdb
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.TaskBinary.resources
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.exe
+E:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\bin\Debug\TaskIncreaseDecreaseMonotony.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.TaskBinary.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 13.Файлы\13.2.9 TaskIncreaseDecreaseMonotony\TaskIncreaseDecreaseMonotony\obj\Debug\TaskIncreaseDecreaseMonotony.pdb

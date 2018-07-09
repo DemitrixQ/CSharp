@@ -1,0 +1,58 @@
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+I:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+J:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+G:\Программирование\Задачи Аттестации\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+K:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+H:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+H:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+H:\Программирование\Задачи Аттестации 1 семестр\3 Аттестация(3)\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\bin\Debug\Easyrecursion.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.TrainingTask.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 14.Рекурсия\14.1 Легкая рекурсия запятых\Easyrecursion\Easyrecursion\obj\Debug\Easyrecursion.pdb

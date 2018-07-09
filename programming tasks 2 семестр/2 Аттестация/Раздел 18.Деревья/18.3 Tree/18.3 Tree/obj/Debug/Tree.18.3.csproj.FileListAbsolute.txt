@@ -1,0 +1,50 @@
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.pdb
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csprojResolveAssemblyReference.cache
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Window.resources
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Properties.Resources.resources
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csproj.GenerateResource.Cache
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.exe
+c:\users\mikhail\documents\visual studio 2015\Projects\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.pdb
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.exe
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.pdb
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.pdb
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Window.resources
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Properties.Resources.resources
+C:\Users\Kirill\Downloads\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csproj.GenerateResource.Cache
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.exe
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.pdb
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.pdb
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Window.resources
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Properties.Resources.resources
+C:\Users\Mikhail\Desktop\Программирование\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+G:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.exe
+G:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\bin\Debug\Tree.18.3.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csprojAssemblyReference.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Window.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree._18._3.Properties.Resources.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csproj.GenerateResource.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\Tree.18.3\Tree.18.3\obj\Debug\Tree.18.3.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\bin\Debug\Tree.18.3.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\bin\Debug\Tree.18.3.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\bin\Debug\Tree.18.3.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree.18.3.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree._18._3.Window.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree._18._3.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree.18.3.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree.18.3.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree.18.3.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\18.3 Tree\Tree.18.3\obj\Debug\Tree.18.3.pdb

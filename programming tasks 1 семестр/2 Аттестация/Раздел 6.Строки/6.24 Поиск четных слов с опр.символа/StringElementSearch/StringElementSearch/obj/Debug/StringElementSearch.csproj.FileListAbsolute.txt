@@ -1,0 +1,68 @@
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Строки\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+F:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\bin\Debug\StringElementSearch.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.StringElementSearch.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.24 Поиск четных слов с опр.символа\StringElementSearch\StringElementSearch\obj\Debug\StringElementSearch.pdb

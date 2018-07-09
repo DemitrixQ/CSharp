@@ -1,0 +1,6 @@
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\bin\Debug\Task 4.6.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\bin\Debug\Task 4.6.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\bin\Debug\Task 4.6.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\obj\Debug\Task 4.6.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\obj\Debug\Task 4.6.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 4.6\Task 4.6\obj\Debug\Task 4.6.pdb

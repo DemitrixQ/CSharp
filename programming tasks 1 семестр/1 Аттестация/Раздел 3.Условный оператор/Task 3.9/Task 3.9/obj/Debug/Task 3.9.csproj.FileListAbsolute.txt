@@ -1,0 +1,7 @@
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\obj\Debug\Task 3.9.csprojAssemblyReference.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\obj\Debug\Task 3.9.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\bin\Debug\Task 3.9.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\bin\Debug\Task 3.9.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\bin\Debug\Task 3.9.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\obj\Debug\Task 3.9.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.9\Task 3.9\obj\Debug\Task 3.9.pdb

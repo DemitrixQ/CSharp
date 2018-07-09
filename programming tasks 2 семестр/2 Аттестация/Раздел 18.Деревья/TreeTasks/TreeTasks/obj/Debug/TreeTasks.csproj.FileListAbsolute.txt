@@ -1,0 +1,40 @@
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.TaskForm.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe.config
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.pdb
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe.config
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.pdb
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csprojResolveAssemblyReference.cache
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.TaskForm.resources
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.Properties.Resources.resources
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csproj.GenerateResource.Cache
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.exe
+F:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\bin\Debug\TreeTasks.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.TaskForm.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\bin\Debug\TreeTasks.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\bin\Debug\TreeTasks.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.TaskForm.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 18.Деревья\TreeTasks\TreeTasks\obj\Debug\TreeTasks.pdb

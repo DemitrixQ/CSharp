@@ -1,0 +1,6 @@
+G:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\ArithmeticBraketsTask\ClassesLibraryStack\obj\Debug\ClassesLibraryStack.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 15.Списки.Стеки.Очереди\ArithmeticBraketsTask\ClassesLibraryStack\obj\Debug\ClassesLibraryStack.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 15.Списки.Стеки.Очереди\ArithmeticBraketsTask\ClassesLibraryStack\bin\Debug\ClassesLibraryStack.dll
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 15.Списки.Стеки.Очереди\ArithmeticBraketsTask\ClassesLibraryStack\bin\Debug\ClassesLibraryStack.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 15.Списки.Стеки.Очереди\ArithmeticBraketsTask\ClassesLibraryStack\obj\Debug\ClassesLibraryStack.dll
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 15.Списки.Стеки.Очереди\ArithmeticBraketsTask\ClassesLibraryStack\obj\Debug\ClassesLibraryStack.pdb

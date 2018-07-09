@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\11.4 Функция нахождения\WindowsFormsSearching\WindowsFormsSearching\obj\Debug\WindowsFormsSearching.SearchTask.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\11.4 Функция нахождения\WindowsFormsSearching\WindowsFormsSearching\obj\Debug\WindowsFormsSearching.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\11.4 Функция нахождения\WindowsFormsSearching\WindowsFormsSearching\obj\Debug\MSearching.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\11.4 Функция нахождения\WindowsFormsSearching\WindowsFormsSearching\obj\Debug\MSearching.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\bin\Debug\WindowsFormsSearching.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\bin\Debug\WindowsFormsSearching.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\bin\Debug\WindowsFormsSearching.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\WindowsFormsSearching.SearchTask.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\WindowsFormsSearching.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\MSearching.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\MSearching.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\WindowsFormsSearching.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\3 Аттестация(3)\Раздел 11.Перечислимый тип\MSearching\MSearching\obj\Debug\WindowsFormsSearching.pdb

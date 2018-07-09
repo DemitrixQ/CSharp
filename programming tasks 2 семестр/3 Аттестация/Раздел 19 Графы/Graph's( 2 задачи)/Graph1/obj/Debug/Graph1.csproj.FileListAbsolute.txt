@@ -1,0 +1,10 @@
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\bin\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.FormGraph.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.exe
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\3 Аттестация(3)\Graph1\Graph1\obj\Debug\Graph1.FormGraphTools.resources

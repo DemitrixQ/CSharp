@@ -1,0 +1,62 @@
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+F:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+E:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6 Строки\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.9  Строки (2 варианта задачи)\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+I:\ВГУ\Программирование\Задачи Аттестации\2 Аттестация\6.9  Строки (2 варианта задачи)\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Строки (2 варианта задачи)\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+I:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Строки (2 варианта задачи)\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации\2 Аттестация\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+G:\Программирование\Задачи Аттестации\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojAssemblyReference.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\2 Аттестация(2)\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\bin\Debug\StringsTask.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.ProjectStrings.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 1 семестр\2 Аттестация(2)\Раздел 6.Строки\6.9  Конвертация литер S1 В S2\StringsTask\StringsTask\obj\x86\Debug\StringsTask.pdb

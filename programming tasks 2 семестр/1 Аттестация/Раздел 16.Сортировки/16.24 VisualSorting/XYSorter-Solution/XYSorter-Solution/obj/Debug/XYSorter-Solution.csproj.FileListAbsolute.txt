@@ -1,0 +1,83 @@
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+J:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\1 Аттестация(1)\SorterTask\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\XYPointSorter\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojAssemblyReference.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\bin\Debug\XYSorter-Solution.pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.SorterSolution.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter_Solution.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\1 Аттестация(1)\Раздел 16.Сортировки\VisualSorting\XYSorter-Solution\XYSorter-Solution\obj\Debug\XYSorter-Solution.pdb

@@ -1,0 +1,6 @@
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\bin\Debug\Task 3.24.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\bin\Debug\Task 3.24.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\bin\Debug\Task 3.24.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\obj\Debug\Task 3.24.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\obj\Debug\Task 3.24.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 3.24\Task 3.24\obj\Debug\Task 3.24.pdb

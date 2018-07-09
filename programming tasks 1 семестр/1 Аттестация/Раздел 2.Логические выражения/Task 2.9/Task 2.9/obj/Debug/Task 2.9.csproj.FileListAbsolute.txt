@@ -1,0 +1,8 @@
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\bin\Debug\Task 2.9.exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\bin\Debug\Task 2.9.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\bin\Debug\Task 2.9.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\obj\Debug\Task 2.9.csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\obj\Debug\Task 2.9.exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\obj\Debug\Task 2.9.pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\bin\Debug\Task 2.9.exe.CodeAnalysisLog.xml
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 1 семестр\1 Аттестация(1)\Task 2.9\Task 2.9\bin\Debug\Task 2.9.exe.lastcodeanalysissucceeded

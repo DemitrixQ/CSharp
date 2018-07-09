@@ -1,0 +1,47 @@
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe.config
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csprojResolveAssemblyReference.cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Parser.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Properties.Resources.resources
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.GenerateResource.Cache
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).pdb
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).exe
+H:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).pdb
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe.config
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).pdb
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csprojResolveAssemblyReference.cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Parser.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Properties.Resources.resources
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.GenerateResource.Cache
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe
+K:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe.config
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).pdb
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csprojResolveAssemblyReference.cache
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Parser.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Properties.Resources.resources
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.GenerateResource.Cache
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).exe
+E:\Программирование\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe.config
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).pdb
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csprojAssemblyReference.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Parser.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Properties.Resources.resources
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.GenerateResource.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.CoreCompileInputs.cache
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).exe
+C:\Users\MarinaST\Desktop\Лепехин Дмитрий\Задачи Аттестации 2 семестр\Задачи Аттестации 2 семестр\2 Аттестация(2)\ExpressionParser(Brackets)\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe.config
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\bin\Debug\ExpressionParser(Brackets).pdb
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Parser.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser_Brackets_.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).exe
+C:\Users\Дмитрий\Desktop\Лепехин Дмитрий(редакт)\Задачи Аттестации 2 семестр\2 Аттестация(2)\Раздел 17.Разбор выражений\ExpressionParser(Brackets)\obj\Debug\ExpressionParser(Brackets).pdb
